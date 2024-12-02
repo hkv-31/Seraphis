@@ -1,0 +1,40 @@
+
+html{
+    background:#dddfde;
+}
+
+h1{
+    background-color: #365a72;
+    font-style: oblique;
+    font-weight: 700;
+    padding: 5px; 
+    color: white;   
+}
+
+h2{
+    background-color: #365a72;
+    color: white;
+    font-style: oblique;
+    padding: 10px;
+}
+
+body {
+    text-align: center;   
+}
+
+.words{
+    background-color: #6991aa;
+    padding: 5px; 
+    color:white;
+    font-style: oblique;
+    font-weight: bold;
+}
+
+#bootstrap{
+    text-align: center;
+    padding: 100px;  
+}
+
+#blue_link{
+    color: white; 
+}

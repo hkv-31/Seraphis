@@ -1,0 +1,20 @@
+html{
+    background:#dddfde;
+}
+h1{
+    color: white; 
+}
+h2{
+    color:white;
+    font-style: oblique;
+    font-weight: 700;
+}
+body{
+    text-align:center;
+    background-color:#6991aa;
+    padding-top: 10px; 
+    padding-bottom: 30px; 
+}
+#dash{
+    color: white; 
+}
