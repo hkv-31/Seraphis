@@ -46,3 +46,8 @@ body {
   margin: 10px;
   background-color: #8D6E63  ;
 }
+.film_strip{
+  align-items: center;
+  margin: 0; 
+  padding: 0; 
+}
